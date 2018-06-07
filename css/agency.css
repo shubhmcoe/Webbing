@@ -338,6 +338,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content ul.list-inline {
+	position: right-side;
   margin-top: 0;
   margin-bottom: 30px;
 }
